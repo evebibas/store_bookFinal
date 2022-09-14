@@ -1,5 +1,4 @@
-// getCart pr afficher le panier , addToCart , RemoveFromCart
-//Ici c pas un composant c juste un list de fontion quon utilisera ds les compoennts
+
 
 import axios from "axios";
 
